@@ -6,3 +6,9 @@ You are working with the National Statistical Office which is equipped to releas
 4.COVID-19 Impact Analysis
 5.Investigate how major global economic events (e.g., imported crude oil price fluctuations) have influenced India’s inflation
 
+##Tools Used
+•	Microsoft Excel
+•	Power Query (for data transformation and automation)
+•	Pivot Tables & Charts
+•	Slicers for Year, Sector, and Month
+
