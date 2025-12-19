@@ -7,8 +7,7 @@ You are working with the National Statistical Office which is equipped to releas
 5.Investigate how major global economic events (e.g., imported crude oil price fluctuations) have influenced India’s inflation
 
 # Tools Used
-•	Microsoft Excel
-•	Power Query (for data transformation and automation)
-•	Pivot Tables & Charts
+•	Microsoft Advance Excel
+•	Pivot Tables & Charts Vlookups 
 •	Slicers for Year, Sector, and Month
 
